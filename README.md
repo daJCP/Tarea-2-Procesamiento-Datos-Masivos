@@ -12,7 +12,6 @@ Para ambos archivos primero se realiza un codigo que responde lo solicitado en l
 
 El link del video es:
 
-- 
-
+- https://youtu.be/ohwvteK07ho
 
 Trabajo realizado por Diego Rodriguez y Joaquín Cabello.

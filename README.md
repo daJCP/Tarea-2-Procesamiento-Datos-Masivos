@@ -10,3 +10,9 @@ El archivo:
 
 Para ambos archivos primero se realiza un codigo que responde lo solicitado en la pregunta que se usa de base para la implementación utilizando la idea general.
 
+El link del video es:
+
+- 
+
+
+Trabajo realizado por Diego Rodriguez y Joaquín Cabello.
